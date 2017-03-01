@@ -1,3 +1,3 @@
 # hello-world
-Another one
-Greetings and Salutions!
+
+Greetings and Salutations!
